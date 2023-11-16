@@ -1,0 +1,2 @@
+# PraktikWebGIS
+Repository praktikum WebGIS
